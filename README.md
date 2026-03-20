@@ -1,6 +1,6 @@
-# Análisis de comercio mundial de tierras raras
+# Analysis of the Global Trade in Rare Earth Elements
 
-Este trabajo presenta un análisis del comercio mundial de tierras raras para el periodo 1995-2022. La fuente empleada son los datos de [Observatory of Economic Complexity (OEC)](https://oec.world/en). Se empleo los datos del valor comercial en dólares de las exportaciones e importaciones totales, asi como la diferencia de estos, por país para los años del periodo. Mediante este análisis se puede observar cuáles son los países que más demandan de estos bienes y cuáles son los principales extractores de tierras raras en cada año.
+This paper presents an analysis of the global trade in rare earth elements for the period 1995–2022. The data source is the [Observatory of Economic Complexity (OEC)](https://oec.world/en). The analysis uses the trade value in US dollars of total exports and imports, as well as the difference between these, by country for each year of the period. This analysis reveals which countries have the highest demand for these goods and which are the main rare earth element producers in each year.
 
 ![image](https://github.com/user-attachments/assets/1b2714bb-055f-4be1-a097-43b7b441ca93)
 
